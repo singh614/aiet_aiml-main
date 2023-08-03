@@ -1,0 +1,23 @@
+Voice Assistant
+- Speech Recognition
+- Speech Synthesis
+- Chat bot (Rule Based)
+
+
+speech_recognition
+pyttsx3
+nltk
+
+
+git-scm.com
+github.com
+
+# Commands
+git init
+git config user.name "your name"
+git config user.email "youremail@email.com"
+git remote add origin "yourgitrepolink.git"
+
+git add .
+git commit -m "any message"
+git push origin main
