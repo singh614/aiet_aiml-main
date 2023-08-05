@@ -17,8 +17,8 @@ ans2 = [
 
 qn3 = r'(.*)your name'
 ans3 = [    
-    'my name is chatty',    
-    'I am chatty'
+    'ChatO',    
+    'I am ChatO'
 ]
 
 qn4 = r'(.*)mausam(.*)ba[a]*rish'  # aaj mausam kaisa hai, kya baarish hogi?
@@ -62,5 +62,3 @@ def chat():
     return "<h2>Chat Bot</h2>"
 
 app.run(debug=True) # debug = true : don't need to restart server... work after save
-
-
